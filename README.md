@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, 🚧 Profile Under Construction 🚧
+
+Thank you for visiting my GitHub/LinkedIn profile! I'm currently in the process of updating and optimizing my repositories and profile information to better showcase my projects and experiences. Stay tuned for more detailed and organized content. In the meantime, feel free to connect or reach out for any collaborations or discussions! 👋
 
 <!--
 **TRAP33ZOID/TRAP33ZOID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
