@@ -9,7 +9,7 @@ I'm always excited to collaborate, learn, and grow together. Feel free to reach 
 # ❓ WHO IS HE
 Data-driven professional specializing in analytics and machine learning, adept at transforming complex challenges into actionable insights. Expert in data extraction, cleaning, visualization, ensuring optimized decision-making processes while applying agile methodologies. Utilizes refined communication skills, cultivated through extensive experience, to articulate intricate data findings with clarity. Part of a government subsidy program covering most of my initial three-month salary.
 
-# 🛠️ Technologies & Tools
+# 🛠️ Skills
 
 ## Languages and Libraries
 - (Python, SQL, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
@@ -22,7 +22,7 @@ Data-driven professional specializing in analytics and machine learning, adept a
 ## Soft Skills 
 - (Communication, Teamwork, Collaboration, Presentation, Project Management)
 
-# 🌱 Current Learning Goals
+# 🌱 Learning Goals
 
 I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my current learning goals include:
 
@@ -31,7 +31,7 @@ I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my
 - Docker
 - PySpark
 
-# 🔭 My Projects
+# 🔭 Projects
 
 ## The Customer Churn Prediction Project 
 utilized data analysis and machine learning to pinpoint critical churn factors, focusing on service calls and pricing. By applying Logistic Regression and Random Forest models, it emphasized the significance of customer service and billing in churn prediction. The project concluded with actionable strategies for enhancing service quality, revising pricing structures, and offering tailored plans to reduce churn.
