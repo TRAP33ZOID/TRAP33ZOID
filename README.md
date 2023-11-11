@@ -1,7 +1,5 @@
 # 👋 Greetings Summoners, I'm Waleed!
 
-# 👇 Scroll for pinned projects
-
 # 🤝 Let's Connect
 
 I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on linkedIn:
