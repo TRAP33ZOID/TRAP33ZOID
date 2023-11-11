@@ -27,13 +27,25 @@ I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my
 # 🔭 My Projects
 
 ## The Customer Churn Prediction Project 
-aimed at a telecom company, leveraged data analysis and machine learning to identify key churn drivers, notably service calls and pricing sensitivity. Using Logistic Regression and Random Forest models, the project highlighted the importance of customer service and charge-related features in predicting churn. The outcomes include strategic recommendations for service improvement, pricing adjustment, and personalized plans to mitigate churn, backed by thorough data-driven analysis.
+utilized data analysis and machine learning to pinpoint critical churn factors, focusing on service calls and pricing. By applying Logistic Regression and Random Forest models, it emphasized the significance of customer service and billing in churn prediction. The project concluded with actionable strategies for enhancing service quality, revising pricing structures, and offering tailored plans to reduce churn.
 
 ## Tableau-Wildlife-Data-Visualization
+analyzed 2015 FAA Wildlife Strikes data, revealing key trends like most strikes occurring during the day and in summer, predominantly involving birds. The analysis, focusing on state-wise strike distribution and financial impacts, identified coastal states as hotspots. Future goals include integrating flight path data to deepen the understanding of strike patterns.
 
+## Unsupervised-Learning-Wholesale-Analysis 
+analyzed a wholesale distributor's client purchasing behaviors. Utilizing KMeans and Hierarchical Clustering, along with Principal Component Analysis (PCA), the study revealed two distinct customer groups and multi-level purchasing patterns. Key findings include strong correlations between certain product categories and feature redundancy highlighted by PCA. These insights aid in developing targeted marketing and inventory strategies.
 
+## Diabetes-Prediction-Supervised-Learning
+predicts diabetes using health metrics, utilizing the National Institute of Diabetes and Digestive and Kidney Diseases dataset. Key steps included Exploratory Data Analysis, data preprocessing for inconsistencies, and oversampling for balance. Models like Logistic Regression and Random Forest were trained and evaluated, with Logistic Regression emerging as effective for its simplicity and interpretability. The project underscores the significance of thorough data preparation in machine learning, offering an approach that balances ease of use and predictive accuracy.
 
+## Bike-Sharing-Statistical-Modelling 
+analyzed the relationship between bike availability and nearby Points of Interest (POIs) using CityBikes, Yelp, and Foursquare APIs, focusing on Toronto. The process involved merging bike station data with POIs information, and building a regression model to study correlations. Key findings suggested that POI counts from Yelp and Foursquare had limited statistical significance in predicting bike availability. Yelp API outperformed Foursquare in data detail and coverage. Challenges included API request limits and data processing time. Future goals aim to integrate data on people density to manage congestion.
 
+## SQL-Ecommerce-Data-Analysis 
+focused on understanding the process of loading, cleaning, and analyzing data sets in pgAdmin using SQL. The project involved preliminary data examination, importing to pgAdmin, data cleansing, and extracting insights through SQL queries. Key findings included identifying the USA as the top revenue-generating country, popular products like the LED light pen, and product category preferences. Challenges faced included technical issues with pgAdmin, data inconsistencies, and time management. Future goals are set to explore data visualization tools.
+
+## Global Population Trends
+analyzed demographic trends from 2016 to 2022, focusing on urban and rural populations, infant mortality, birth and death rates, and life expectancy. The process involved sourcing data from Kaggle, cleaning it with PostgreSQL, conducting exploratory data analysis (EDA), and using Tableau for visualization. Key aspects included analyzing growth rates, urban versus rural population dynamics, and life expectancy correlations. Challenges were faced in data cleaning, handling null values, and inconsistencies. Future goals include integrating more data through APIs, enhancing dashboards, and improving quality assurance processes.
 
 
 # 🤝 Let's Connect
