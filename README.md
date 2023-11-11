@@ -1,5 +1,12 @@
 # 👋 Greetings Summoners, I'm Waleed!
 
+# 🤝 Let's Connect
+
+I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on linkedIn:
+
+    https://www.linkedin.com/in/waleed-a-8396a1187/
+
+# ❓ WHO IS HE
 Data-driven professional specializing in analytics and machine learning, adept at transforming complex challenges into actionable insights. Expert in data extraction, cleaning, visualization, ensuring optimized decision-making processes while applying agile methodologies. Utilizes refined communication skills, cultivated through extensive experience, to articulate intricate data findings with clarity. Part of a government subsidy program covering most of my initial three-month salary.
 
 # 🛠️ Technologies & Tools
@@ -46,13 +53,6 @@ focused on understanding the process of loading, cleaning, and analyzing data se
 
 ## Global Population Trends
 analyzed demographic trends from 2016 to 2022, focusing on urban and rural populations, infant mortality, birth and death rates, and life expectancy. The process involved sourcing data from Kaggle, cleaning it with PostgreSQL, conducting exploratory data analysis (EDA), and using Tableau for visualization. Key aspects included analyzing growth rates, urban versus rural population dynamics, and life expectancy correlations. Challenges were faced in data cleaning, handling null values, and inconsistencies. Future goals include integrating more data through APIs, enhancing dashboards, and improving quality assurance processes.
-
-
-# 🤝 Let's Connect
-
-I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on linkedIn:
-
-    https://www.linkedin.com/in/waleed-a-8396a1187/
     
 # 🚀 PEACE OUT 
 
