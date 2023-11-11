@@ -5,15 +5,15 @@ Data-driven professional specializing in analytics and machine learning, adept a
 # 🛠️ Technologies & Tools
 
 ## Languages and Libraries
-    (Python, SQL, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- (Python, SQL, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
 ## Tools and Technologies 
-    (Github, Excel, Tableau, Jupyter Notebook, Azure DevOps, Salesforce)
+- (Github, Excel, Tableau, Jupyter Notebook, Azure DevOps, Salesforce)
 ## EDA & ETL 
-    (collection, cleaning, transformation, data warehouses, visualization and correlation analysis)
+- (collection, cleaning, transformation, data warehouses, visualization and correlation analysis)
 ## Machine Learning 
-    (Supervised Learning: classification, regression | Unsupervised Learning: clustering)
+- (Supervised Learning: classification, regression | Unsupervised Learning: clustering)
 ## Soft Skills 
-    (Communication, Teamwork, Collaboration, Presentation, Project Management)
+- (Communication, Teamwork, Collaboration, Presentation, Project Management)
 
 # 🌱 Current Learning Goals
 
