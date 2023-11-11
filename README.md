@@ -1,7 +1,9 @@
-👋 Hi there, I'm Saim!
+##👋 Greetings Summoners, I'm Waleed!
 
-Welcome to my GitHub profile! I'm passionate about learning programming, creating innovative projects, and contributing to open-source initiatives. I'm currently focused on mastering a variety of technologies to build exciting and impactful applications.
-🛠️ Technologies & Tools
+Data-driven professional specializing in analytics and machine learning, adept at transforming complex challenges into actionable insights. Expert in data extraction, cleaning, visualization, ensuring optimized decision-making processes while applying agile methodologies. Utilizes refined communication skills, cultivated through extensive experience, to articulate intricate data findings with clarity. Part of a government subsidy program covering most of my initial three-month salary.
+
+
+#🛠️ Technologies & Tools
 
     Languages: JavaScript, Python, Ruby, HTML, EJS, CSS, SASS, SQL
     Frameworks & Libraries: Node.js, Express.js, React, Redux, jQuery, Axios, AJAX, Ruby on Rails, Mongoose, TailwindCSS
