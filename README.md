@@ -1,9 +1,9 @@
-👋 Greetings Summoners, I'm Waleed!
+# 👋 Greetings Summoners, I'm Waleed!
 
 Data-driven professional specializing in analytics and machine learning, adept at transforming complex challenges into actionable insights. Expert in data extraction, cleaning, visualization, ensuring optimized decision-making processes while applying agile methodologies. Utilizes refined communication skills, cultivated through extensive experience, to articulate intricate data findings with clarity. Part of a government subsidy program covering most of my initial three-month salary.
 
 
-🛠️ Technologies & Tools
+# 🛠️ Technologies & Tools
 
 Languages and Libraries (Python, SQL, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn),
 Tools and Technologies (Github, Excel, Tableau, Jupyter Notebook, Azure DevOps, Salesforce),
@@ -11,7 +11,7 @@ EDA & ETL (collection, cleaning, transformation, data warehouses, visualization 
 Machine Learning (Supervised Learning: classification, regression | Unsupervised Learning: clustering),
 Soft Skills (Communication, Teamwork, Collaboration, Presentation, Project Management)
 
-🌱 Current Learning Goals
+# 🌱 Current Learning Goals
 
 I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my current learning goals include:
 
@@ -20,7 +20,7 @@ I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my
 ** Docker
 ** PySpark
 
-🔭 My Projects
+# 🔭 My Projects
 
  
 
@@ -36,13 +36,13 @@ aimed at a telecom company, leveraged data analysis and machine learning to iden
     Tweeter - Tweeter is a Single Page App (SPA) built with HTML, CSS, JS, jQuery, and AJAX.
         Github Repo
 
-🤝 Let's Connect
+# 🤝 Let's Connect
 
 I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on my social channels:
 
     LinkedIn: https://www.linkedin.com/in/waleed-a-8396a1187/
     
-# PEACE OUT 🚀
+# 🚀 PEACE OUT 
 
 <!--
 **TRAP33ZOID/TRAP33ZOID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
