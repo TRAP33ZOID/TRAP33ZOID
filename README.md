@@ -38,9 +38,9 @@ aimed at a telecom company, leveraged data analysis and machine learning to iden
 
 # 🤝 Let's Connect
 
-I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on my social channels:
+I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on linkedIn:
 
-    LinkedIn: https://www.linkedin.com/in/waleed-a-8396a1187/
+    https://www.linkedin.com/in/waleed-a-8396a1187/
     
 # 🚀 PEACE OUT 
 
