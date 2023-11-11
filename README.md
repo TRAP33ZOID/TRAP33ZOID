@@ -1,6 +1,48 @@
-### Hi there, 🚧 Profile Under Construction, Take a look at pinned Repos 🚧
+👋 Hi there, I'm Saim!
 
-Thank you for visiting my GitHub/LinkedIn profile! I'm currently in the process of updating and optimizing my repositories and profile information to better showcase my projects and experiences. Stay tuned for more detailed and organized content. In the meantime, feel free to connect or reach out for any collaborations or discussions! 👋
+Welcome to my GitHub profile! I'm passionate about learning programming, creating innovative projects, and contributing to open-source initiatives. I'm currently focused on mastering a variety of technologies to build exciting and impactful applications.
+🛠️ Technologies & Tools
+
+    Languages: JavaScript, Python, Ruby, HTML, EJS, CSS, SASS, SQL
+    Frameworks & Libraries: Node.js, Express.js, React, Redux, jQuery, Axios, AJAX, Ruby on Rails, Mongoose, TailwindCSS
+    Database: PostgreSQL, MongoDB
+    Testing: Jest, Storybook, Cypress, RSpec
+    Deployment/Tools: Git, Github, Visual Studio Code, Linux, Postman, Figma, Vercel
+
+🌱 Current Learning Goals
+
+I'm on a journey to expand my skills and knowledge in software development. Some of my current learning goals include:
+
+    Proficiency in TypeScript and Python.
+    AWS Certified Developer certification.
+    Building full-stack web applications with JavaScript and Angular.
+    Gaining proficiency in data structures and algorithms by leet coding and studying computer science.
+
+🔭 My Projects
+
+Here are some of the projects I've been working on:
+
+    The Customer Churn Prediction Project - aimed at a telecom company, leveraged data analysis and machine learning to identify key churn drivers, notably service calls and pricing sensitivity. Using Logistic Regression and Random Forest models, the project highlighted the importance of customer service and charge-related features in predicting churn. The outcomes include strategic recommendations for service improvement, pricing adjustment, and personalized plans to mitigate churn, backed by thorough data-driven analysis.
+
+    Interview Scheduler - Interview Scheduler is a single-page application (SPA) built using JavaScript, React, and Axios that allows users to book technical interviews between students and mentors.
+        GitHub Repo
+
+    TinyApp - TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).
+        GitHub Repo
+
+    Tweeter - Tweeter is a Single Page App (SPA) built with HTML, CSS, JS, jQuery, and AJAX.
+        Github Repo
+
+🤝 Let's Connect
+
+I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on my social channels:
+
+    LinkedIn: https://www.linkedin.com/in/waleed-a-8396a1187/
+    
+
+
+
+PEACE OUT 🚀
 
 <!--
 **TRAP33ZOID/TRAP33ZOID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
