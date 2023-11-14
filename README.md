@@ -27,7 +27,7 @@ Data-driven professional specializing in analytics and machine learning, adept a
 I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my current learning goals include:
 
 - NLP
-- TensorFlow
+- Pytorch... or maybe TensorFlow
 - Docker
 - PySpark
 
