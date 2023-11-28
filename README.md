@@ -12,7 +12,7 @@ Data-driven professional specializing in analytics and machine learning, adept a
 # 🛠️ Skills
 
 ## Languages and Libraries
-- (Python, SQL, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+- (Python, SQL, HTML, CSS, JS, Flask, pyMuPDF, BeautifulSoup, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Spacy)
 ## Tools and Technologies 
 - (Github, Excel, Tableau, Jupyter Notebook, Azure DevOps, Salesforce)
 ## EDA & ETL 
