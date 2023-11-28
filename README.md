@@ -30,6 +30,7 @@ I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my
 - Pytorch... or maybe TensorFlow
 - Docker
 - PySpark
+- Backend
 
 # 🔭 Projects
 
