@@ -30,9 +30,11 @@ I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my
 - Pytorch... or maybe TensorFlow
 - Docker
 - PySpark
+- Snowflake
 - Backend
 
 # 🔭 Projects
+last updated Nov 9th
 
 ## The Customer Churn Prediction Project 
 utilized data analysis and machine learning to pinpoint critical churn factors, focusing on service calls and pricing. By applying Logistic Regression and Random Forest models, it emphasized the significance of customer service and billing in churn prediction. The project concluded with actionable strategies for enhancing service quality, revising pricing structures, and offering tailored plans to reduce churn.
