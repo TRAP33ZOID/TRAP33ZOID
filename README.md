@@ -1,5 +1,8 @@
 # 👋 Greetings Summoners, I'm Waleed!
 
+# 🧾Resume
+https://flowcv.com/resume/jhtv9sj1sj
+
 # 🤝 Let's Connect
 
 I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on linkedIn:
