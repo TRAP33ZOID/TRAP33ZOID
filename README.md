@@ -1,7 +1,7 @@
 # 👋 Greetings Summoners, I'm Waleed!
 
 # 🧾Resume
-https://flowcv.com/resume/jhtv9sj1sj
+- contact me: waahmed+intern2025@torontomu.ca
 
 # 🤝 Let's Connect
 
