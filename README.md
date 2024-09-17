@@ -7,7 +7,7 @@
 
 I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on linkedIn:
 
-    https://www.linkedin.com/in/waleed-a-8396a1187/
+    https://www.linkedin.com/in/waleed-ahmed-8396a1187/
 
 # ❓ WHO IS HE
 Data-driven professional specializing in analytics and machine learning, adept at transforming complex challenges into actionable insights. Expert in data extraction, cleaning, visualization, ensuring optimized decision-making processes while applying agile methodologies. Utilizes refined communication skills, cultivated through extensive experience, to articulate intricate data findings with clarity. Part of a government subsidy program covering most of my initial three-month salary.
