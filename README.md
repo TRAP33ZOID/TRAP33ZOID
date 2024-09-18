@@ -1,6 +1,6 @@
 # 👋 Greetings Summoners, I'm Waleed!
 
-![](https://komarev.com/ghpvc/?username=TRAP33ZOID&style=flat-square)
+![](https://komarev.com/ghpvc/?username=TRAP33ZOID&style=flat-square&color=green)
 
 # 🧾Resume
 - contact me: waahmed+intern2025@torontomu.ca
