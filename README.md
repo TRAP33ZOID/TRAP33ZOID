@@ -29,7 +29,7 @@ Data-driven professional specializing in analytics and machine learning, adept a
 
 # 🌱 Learning Goals
 
-I'm on a journey to expand my skills and knowledge in Data Analytics. Some of my current learning goals include:
+I'm on a journey to expand my skills and knowledge. Some of my current learning goals include:
 
 - NLP
 - Pytorch... or maybe TensorFlow
