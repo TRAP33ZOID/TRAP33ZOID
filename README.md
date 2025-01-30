@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=TRAP33ZOID&style=flat-square&color=green)
 
 # 🧾Resume
-- contact me: waahmed+intern2025@torontomu.ca
+- contact me: 
 
 # 🤝 Let's Connect
 
