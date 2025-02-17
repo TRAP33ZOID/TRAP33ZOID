@@ -1,79 +1,49 @@
-# 👋 Greetings Summoners, I'm Waleed!
+# 👋 Greetings, I'm Waleed Ahmed!
 
-![](https://komarev.com/ghpvc/?username=TRAP33ZOID&style=flat-square&color=green)
+[![](https://komarev.com/ghpvc/?username=TRAP33ZOID&style=flat-square&color=green)](https://github.com/TRAP33ZOID)
 
-# 🧾Resume
-- contact me: 
+# 🧾 Resume
+Feel free to [contact me](mailto:waahmed+2025@torontomu.ca) or check out my [LinkedIn profile](https://www.linkedin.com/in/waleed-ahmed-8396a1187/).
 
 # 🤝 Let's Connect
+I’m passionate about building innovative solutions and collaborating on projects in **software development**, **data analytics**, and **artificial intelligence**. Whether it's coding, data visualization, or developing machine learning models, I'm excited to contribute and grow with dynamic teams.
 
-I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on linkedIn:
-
-    https://www.linkedin.com/in/waleed-ahmed-8396a1187/
-
-# ❓ WHO IS HE
-Data-driven professional specializing in analytics and machine learning, adept at transforming complex challenges into actionable insights. Expert in data extraction, cleaning, visualization, ensuring optimized decision-making processes while applying agile methodologies. Utilizes refined communication skills, cultivated through extensive experience, to articulate intricate data findings with clarity. Part of a government subsidy program covering most of my initial three-month salary.
+# ❓ Who Is He?
+I'm a **data-driven professional** with a strong foundation in **analytics**, **machine learning**, and **software engineering**. I excel at transforming complex challenges into actionable insights, with hands-on experience in data extraction, cleaning, and visualization. My background in both engineering and information technology equips me with a versatile skill set, making me an ideal candidate for entry-level, co-op, and internship roles.
 
 # 🛠️ Skills
 
 ## Languages and Libraries
-- (Python, SQL, HTML, CSS, JS, Flask, pyMuPDF, BeautifulSoup, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Spacy)
+- Python, SQL, HTML, CSS, JavaScript, Flask, pyMuPDF, BeautifulSoup, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Spacy
+
 ## Tools and Technologies 
-- (Github, Excel, Tableau, Jupyter Notebook, Azure DevOps, Salesforce)
+- Git, Excel, Tableau, Jupyter Notebook, Azure DevOps, Salesforce
+
 ## EDA & ETL 
-- (collection, cleaning, transformation, data warehouses, visualization and correlation analysis)
+- Data collection, cleaning, transformation, data warehousing, visualization, and correlation analysis
+
 ## Machine Learning 
-- (Supervised Learning: classification, regression | Unsupervised Learning: clustering)
+- Supervised Learning: Classification, Regression | Unsupervised Learning: Clustering
+
 ## Soft Skills 
-- (Communication, Teamwork, Collaboration, Presentation, Project Management)
+- Communication, Teamwork, Collaboration, Presentation, Project Management
 
 # 🌱 Learning Goals
-
-I'm on a journey to expand my skills and knowledge. Some of my current learning goals include:
-
-- NLP
-- Pytorch... or maybe TensorFlow
-- Docker
-- PySpark
-- Snowflake
-- Backend
+I’m continuously expanding my technical skills and am currently focusing on:
+- **Natural Language Processing (NLP)**
+- **Deep Learning** frameworks (PyTorch or TensorFlow)
+- **Containerization** with Docker
+- **Big Data** processing using PySpark
+- **Cloud Data Platforms** like Snowflake
+- **Backend Development** and API integration
 
 # 🔭 Projects
 
-## The Customer Churn Prediction Project 
-utilized data analysis and machine learning to pinpoint critical churn factors, focusing on service calls and pricing. By applying Logistic Regression and Random Forest models, it emphasized the significance of customer service and billing in churn prediction. The project concluded with actionable strategies for enhancing service quality, revising pricing structures, and offering tailored plans to reduce churn.
+## Customer Churn Prediction Project
+Developed a machine learning model to predict customer churn by analyzing service call data and pricing structures. By applying **Logistic Regression** and **Random Forest**, I identified key factors driving churn and provided actionable recommendations to improve customer retention.
 
-## Tableau-Wildlife-Data-Visualization
-analyzed 2015 FAA Wildlife Strikes data, revealing key trends like most strikes occurring during the day and in summer, predominantly involving birds. The analysis, focusing on state-wise strike distribution and financial impacts, identified coastal states as hotspots. Future goals include integrating flight path data to deepen the understanding of strike patterns.
+## AI-Driven Wildlife Data Visualization
+Leveraged **Tableau** and **Python** to analyze FAA Wildlife Strikes data. This project uncovered critical trends—such as peak strike periods and geographic hotspots—informing strategies to enhance safety measures. It showcases my ability to blend data analytics with AI techniques to solve real-world challenges.
 
-## Unsupervised-Learning-Wholesale-Analysis 
-analyzed a wholesale distributor's client purchasing behaviors. Utilizing KMeans and Hierarchical Clustering, along with Principal Component Analysis (PCA), the study revealed two distinct customer groups and multi-level purchasing patterns. Key findings include strong correlations between certain product categories and feature redundancy highlighted by PCA. These insights aid in developing targeted marketing and inventory strategies.
-
-## Diabetes-Prediction-Supervised-Learning
-predicts diabetes using health metrics, utilizing the National Institute of Diabetes and Digestive and Kidney Diseases dataset. Key steps included Exploratory Data Analysis, data preprocessing for inconsistencies, and oversampling for balance. Models like Logistic Regression and Random Forest were trained and evaluated, with Logistic Regression emerging as effective for its simplicity and interpretability. The project underscores the significance of thorough data preparation in machine learning, offering an approach that balances ease of use and predictive accuracy.
-
-## Bike-Sharing-Statistical-Modelling 
-analyzed the relationship between bike availability and nearby Points of Interest (POIs) using CityBikes, Yelp, and Foursquare APIs, focusing on Toronto. The process involved merging bike station data with POIs information, and building a regression model to study correlations. Key findings suggested that POI counts from Yelp and Foursquare had limited statistical significance in predicting bike availability. Yelp API outperformed Foursquare in data detail and coverage. Challenges included API request limits and data processing time. Future goals aim to integrate data on people density to manage congestion.
-
-## SQL-Ecommerce-Data-Analysis 
-focused on understanding the process of loading, cleaning, and analyzing data sets in pgAdmin using SQL. The project involved preliminary data examination, importing to pgAdmin, data cleansing, and extracting insights through SQL queries. Key findings included identifying the USA as the top revenue-generating country, popular products like the LED light pen, and product category preferences. Challenges faced included technical issues with pgAdmin, data inconsistencies, and time management. Future goals are set to explore data visualization tools.
-
-## Global Population Trends
-analyzed demographic trends from 2016 to 2022, focusing on urban and rural populations, infant mortality, birth and death rates, and life expectancy. The process involved sourcing data from Kaggle, cleaning it with PostgreSQL, conducting exploratory data analysis (EDA), and using Tableau for visualization. Key aspects included analyzing growth rates, urban versus rural population dynamics, and life expectancy correlations. Challenges were faced in data cleaning, handling null values, and inconsistencies. Future goals include integrating more data through APIs, enhancing dashboards, and improving quality assurance processes.
-    
-# 🚀 PEACE OUT 
-
-<!--
-**TRAP33ZOID/TRAP33ZOID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 PEACE OUT
+I’m always excited to connect, collaborate, and tackle new challenges. Whether you're looking for a passionate intern or a collaborative partner in **engineering**, **software development**, **data analytics**, or **artificial intelligence**, let's get in touch!
