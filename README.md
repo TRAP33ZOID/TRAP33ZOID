@@ -1,4 +1,4 @@
-# 👋 Greetings, I'm Waleed Ahmed!
+# 👋 Greetings, I'm Waleed!
 
 [![](https://komarev.com/ghpvc/?username=TRAP33ZOID&style=flat-square&color=green)](https://github.com/TRAP33ZOID)
 
